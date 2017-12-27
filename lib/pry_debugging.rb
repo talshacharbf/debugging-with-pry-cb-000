@@ -1,5 +1,5 @@
 def plus_two(num)
-	var newnum = num + 2
-	newnum
+	num += 2
+	num
 	binding.pry
 end
